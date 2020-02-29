@@ -8,7 +8,7 @@ class Shoe
   end
   
   def material
-    puts "suede"
+    @material
   end
   
 end
