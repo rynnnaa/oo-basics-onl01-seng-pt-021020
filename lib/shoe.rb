@@ -6,8 +6,8 @@ class Shoe
     @brand = brand
   end
   
-  def material(name)
-    @shoe
+  def material
+    puts "suede"
   end
   
 end
