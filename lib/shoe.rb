@@ -11,3 +11,4 @@ class Shoe
   
 end
 shoe = Shoe.new("Adidas")
+shoe.material
