@@ -7,7 +7,7 @@ class Shoe
   end
   
   def material(name)
-    @
+    @shoe
   end
   
 end
