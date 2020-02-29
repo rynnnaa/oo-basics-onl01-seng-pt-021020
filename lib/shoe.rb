@@ -7,7 +7,7 @@ class Shoe
   end
   
   def material(name)
-    @shoe
+    @shoe.material
   
 end
 shoe = Shoe.new("Adidas")
