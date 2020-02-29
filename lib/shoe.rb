@@ -14,6 +14,4 @@ class Shoe
   end
 end
 
-  
-end
 shoe = Shoe.new("Adidas")
